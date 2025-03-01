@@ -2,6 +2,8 @@
 ## Description:
 Turn your crazyflie into something akin to a lotus flower. This project contains the neccesary parts to replicate the project Drone Chi. (https://www.youtube.com/watch?v=ukXf9_ZCNZw)
 
+
+
 ## Reccomendations
 - The parts were printed in tough PLA on an ultimaker 3. 
 - Print many spares, these tings are tricky to assemble
@@ -21,3 +23,5 @@ NOTE: the project requires the drone to be flying upside down such that the LED 
 - 1x the stamen of an artificial flower
 - 1x crazyflie 2.0 or 2.1
 - 4x 400mm .8mm carbon rods. MUST BE .8mm
+
+

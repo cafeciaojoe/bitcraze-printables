@@ -1,0 +1,23 @@
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore backup files
+*.bak
+*.old
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore image editing software specific files
+*.psd
+*.xcf
+
+# Ignore other unnecessary files
+*.zip
+*.rar
+*.tar.gz
