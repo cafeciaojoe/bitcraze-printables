@@ -2,7 +2,7 @@
 ## Description:
 Turn your crazyflie into something akin to a lotus flower. This project contains the neccesary parts to replicate the project Drone Chi. (https://www.youtube.com/watch?v=ukXf9_ZCNZw)
 
-
+![Alt text](images/flower_drone.jpg)
 
 ## Reccomendations
 - The parts were printed in tough PLA on an ultimaker 3. 
